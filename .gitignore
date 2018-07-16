@@ -15,3 +15,5 @@
 
 # comp output #
 /out
+
+*.xml
